@@ -1,9 +1,9 @@
 [![Multi-Modality](agorabanner.png)](https://discord.gg/qUtxnK2NMf)
 
-# Paper-Implementation-Template
-A simple reproducible template to implement AI research papers 
+# HADAR
+Heat-assisted detection and ranging
 
-Paper Link
+[Paper Link](https://www.nature.com/articles/s41586-023-06174-6)
 
 # Appreciation
 * Lucidrains
